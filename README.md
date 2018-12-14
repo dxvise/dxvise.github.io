@@ -1,15 +1,27 @@
 # Digital Transformation Advise -- Chuyển Đổi Kỹ Thuật Số Cho Doanh Nghiệp Việt 
 
-## Digital asset management: how to manage digital assets for small enterprises?  
+## Digital asset management:
 
-## Business process management (BPM): how to manage and automate business processes?   
+how to manage digital assets for small enterprises?  
 
-## Robotic process automation (RPA): how to replace routine tasks with process automation?  
+## Business process management (BPM): 
 
-## Modern, collaborative workspaces and Collaboration: how to create flexbile, collaborative working environments for small enterprises.  
+how to manage and automate business processes?   
 
-## Multicloud services for enterprises: how small enterprises leverage many services in different clouds for their business?  
+## Robotic process automation (RPA): 
 
-## Collectives, Crowd workforce , and Task Delegation:  how can small enterprises   leverage collectives of frelances, crowd workflows to delegate certain types of tasks? 
+how to replace routine tasks with process automation?  
+
+## Modern, collaborative workspaces and Collaboration: 
+
+how to create flexbile, collaborative working environments for small enterprises.  
+
+## Multicloud services for enterprises: 
+
+how small enterprises leverage many services in different clouds for their business?  
+
+## Collectives, Crowd workforce , and Task Delegation:  
+
+how can small enterprises   leverage collectives of frelances, crowd workflows to delegate certain types of tasks? 
 
 ## Contact: [Hong-Linh Truong](http://truong.rdsea.io)
